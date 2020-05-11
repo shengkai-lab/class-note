@@ -1,0 +1,2 @@
+class=com.D58.test2.Service1
+method=doService1
